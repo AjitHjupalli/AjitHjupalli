@@ -20,4 +20,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajithjupalli&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithjupalli&show_icons=true&locale=en" alt="ajithjupalli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithjupalli&show_icons=true&locale=en" alt="ajithjupalli" /></p>
+
