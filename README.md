@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **advanced AI/ML algorithms**
 
-- 📫 How to reach me **jupalliajith@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
