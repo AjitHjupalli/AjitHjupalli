@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajithjupalli" alt="ajithjupalli" /></a> </p>
 
-- 🌱 I’m currently learning **advanced AI/ML algorithms, full-stack development.**
 
-- 👯 I’m looking to collaborate on **AI/ML projects, software development, data science, and cloud-based applications.**
-
-- 🤝 I’m looking for help with **advanced AI/ML algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
